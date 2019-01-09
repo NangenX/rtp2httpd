@@ -45,7 +45,10 @@ it under unprivileged user account.__
 
 Usage
 -------------
-RTP/UDP Input Format in conf file
+_RTP/UDP Input Format in conf file_
+
 <Program Name> <udpxy Format{/rtp/maddress:mport or /udp/maddress:mport} >
-In Vlc
+
+_In VLC_
+
 http://serverip:port/{rtp/udp}/maddress:mport

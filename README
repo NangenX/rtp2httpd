@@ -43,3 +43,9 @@ a list of command line switches.
 __Do not run rtp2httpd as root. Choose some unprivileged port number and run
 it under unprivileged user account.__
 
+Usage
+-------------
+RTP/UDP Input Format in conf file
+<Program Name> <udpxy Format{/rtp/maddress:mport or /udp/maddress:mport} >
+In Vlc
+http://serverip:port/{rtp/udp}/maddress:mport
